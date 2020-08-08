@@ -1,0 +1,2 @@
+# wp-updates
+themes
